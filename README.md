@@ -1,6 +1,6 @@
 # TOME Database
 
-TOME is a file extension for DEVINE LU LINVEGA's (@neauoire) markup language Runic. Elements from hash/array database Indental have been added as well. 
+TOME is a file extension for [Neauoire](https://github.com/neauoire)'s markup language [Runic](https://github.com/XXIIVV/Riven/blob/master/scripts/nodes/indental.js). Elements from hash/array database Indental have been added as well. 
 
 TOME can be used for serverless applications to store local databases within JavaScript. The syntax highlighter for SublimeText3 included in this folder (tome.sublime-syntax) establishes visual heirarchy by identifying top level items and Runic characters.
 
