@@ -1,0 +1,40 @@
+DATABASE.recipes = `
+
+SPINACH PAJEON
+  DATE : 2014-08-19
+  TAGS
+    korean
+    dinner
+    sidedish
+  TIME : 15
+  SERV : 1 pancake
+  DESC     
+    & A dish of korean inspiration! A delicious scallion pancake coloured green with spinach. This is a great way to add an extra portion of vegetables to your meal. 
+    & Happy cooking!
+    ? Rekka
+  INST
+    Pancake
+      - Blend 1/2 cup of spinach with 1/2 cup of water until smooth. Set aside.
+      - In a bowl, whisk together 1/2 cup of spelt flour, 1 tsp sesame oil and the blended spinach.
+      - Heat a large pan with 1 tsp of sesame oil over medium heat.
+      - Put the chopped scallions in the pan and pour the batter onto it. With a spatula, press down on the pancake to flatten it out. 
+      - Cook for 3-4 minutes until the sides come off the pan and the bottom is cooked. Flip, cook for a a few extra minutes and transfer to a plate.
+      - Cut it into pieces to make it easier to dip into the sauce!
+    Sauce
+      - Put the sauce ingredients together in a bowl and mix!
+  INGR
+    Main
+      Spinach : 1/2 cup
+      Water : 1/2 cup
+      Spelt flour : 1/2 cup
+      Sesame oil : 2 tsp
+      Scallions : 1 bunch
+    Sauce
+      Soy sauce : 2 tbsp
+      Rice vinegar : 1 tbsp
+      Chili pepper flakes : 1 tsp
+      Black sesame seeds : 1 tsp
+      Maple syrup : 1 tsp
+      Garlic : 1 clove
+
+`
