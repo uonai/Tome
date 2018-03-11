@@ -86,14 +86,12 @@ contexts:
     - match: 'DATABASE'
       scope: punctuation.definition.comment.tome
       push:
-        # This is an anonymous context push for brevity.
         - meta_scope: comment.line.double-slash.tome
         - match: $\n?
           pop: true
     - match: '`'
       scope: punctuation.definition.comment.tome
       push:
-        # This is an anonymous context push for brevity.
         - meta_scope: comment.line.double-slash.tome
         - match: $\n?
           pop: true
