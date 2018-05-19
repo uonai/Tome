@@ -8,7 +8,8 @@ TOME can be used for serverless applications to store local databases within Jav
 ![Screenshot](sample.png)
 
 ## Installation
-Installation path is SublimeText3 -> Packages -> User -> add sublime file here 
+To install the syntax highlight, go to your Library(on OSX) by pressing the `Go` menu in the top menubar, while holding `alt`.
+Navigate to, and add sublime file in `Application Support/SublimeText3/Packages/User/`
 
 ![Screenshot](installation-path.png)
 
